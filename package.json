@@ -1,0 +1,22 @@
+{
+  "name": "google.com",
+  "version": "0.1.0",
+  "description": "google.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.com"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "Ahmad Sharif",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.7"
+  },
+  "devDependencies": {}
+}

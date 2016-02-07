@@ -1,0 +1,4 @@
+.bowerrc
+assets/bower_components/*
+node_modules/
+.git/
