@@ -1,0 +1,26 @@
+{
+  "name": "google.com",
+  "description": "google.com",
+  "main": "index.html",
+  "authors": [
+    "Ahmad Sharif"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "google.com"
+  ],
+  "moduleType": [],
+  "homepage": "http://git.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "assets/bower_components"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.5.0"
+  }
+}
